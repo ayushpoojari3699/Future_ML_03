@@ -1,5 +1,4 @@
-# Resume Screening & Ranking System (ML Task 3)
-
+# Resume Screening & Ranking System
 ##  Overview
 This project builds a Machine Learning-based system to automatically screen and rank resumes based on a given job description.
 
